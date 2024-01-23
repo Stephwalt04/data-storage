@@ -1,0 +1,71 @@
+.main {
+  background-color: rgb(12 18 44);
+  position: relative;
+}
+.image {
+  width: 101%;
+  margin-top: 250px;
+}
+.main2 {
+  background-color: rgb(30 44 105);
+  width: 330px;
+  height: 180px;
+  border-radius: 10px 90px 10px 10px;
+  position: absolute;
+  bottom: 280px;
+  left: 230px;
+}
+.abt {
+  margin-left: 45px;
+  margin-top: 35px;
+}
+.about {
+  background-color: rgb(12 18 44);
+  padding: 10px;
+  border-radius: 10px;
+}
+.main3 {
+  background-color: rgb(30 44 105);
+  width: 500px;
+  height: 160px;
+  position: absolute;
+  bottom: 280px;
+  right: 235px;
+  border-radius: 10px;
+}
+.main3 p {
+  color: hsl(230deg 34.37% 62.35%);
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.progress {
+  margin-left: 30px;
+}
+.mov {
+  position: absolute;
+  top: 65px;
+  font-size: 15px;
+}
+.move {
+  position: absolute;
+  top: 65px;
+  right: 65px;
+  font-size: 15px;
+}
+.progress-bar {
+  background-image: linear-gradient(to right, #fe9797, #fe5b92);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+}
+body {
+  background-image: linear-gradient(to right, black, red);
+}
+.lanre {
+  width: 15px;
+  height: 15px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  position: absolute;
+  right: 150px;
+}
